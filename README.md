@@ -1,4 +1,4 @@
-# Algorithm Solutions
+# Problems Solutions
 
 ## Introduction
 
