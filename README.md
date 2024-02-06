@@ -14,9 +14,11 @@ This repository contains my personal solutions to algorithmic problems from Algo
 
 ### Grokking Grind 75
 
-| Problem Name                                                | Pattern      |
-| ----------------------------------------------------------- | ------------ |
-| [Add Binary](Grokking-Grind-75-Python/WarmUp/Add_Binary.py) | Two Pointers |
+| Problem Name                                                                 | Pattern      |
+| ---------------------------------------------------------------------------- | ------------ |
+| [Add Binary](Grokking-Grind-75-Python/WarmUp/Add_Binary.py)                  | Two Pointers |
+| [String to Integer](Grokking-Grind-75-Python/WarmUp/string_to_integer.py)    | Two Pointers |
+| [Valid Plaindrome](Grokking-Grind-75-Python/TwoPointers/valid_palindrome.py) | Two Pointers |
 
 ## Disclaimer
 
