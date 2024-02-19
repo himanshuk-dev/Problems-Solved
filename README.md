@@ -14,9 +14,10 @@ This repository contains my personal solutions to algorithmic problems from Algo
 
 ### Grokking Coding Interview Pattens in Python
 
-| Problem Name                                                                                       | Pattern         |
-| -------------------------------------------------------------------------------------------------- | --------------- |
-| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/Merge-Intervals/merge_intervals.py) | Marge Intervals |
+| Problem Name                                                                                         | Pattern          |
+| ---------------------------------------------------------------------------------------------------- | ---------------- |
+| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/Merge-Intervals/merge_intervals.py)   | Marge Intervals  |
+| [Insert Intervals](Grokking-Coding-Interview-Patterns_in_Python/Merge-Intervals/insert_intervals.py) | Insert Intervals |
 
 ### Grokking Grind 75
 
