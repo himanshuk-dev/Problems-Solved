@@ -12,6 +12,12 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Branch Sums](AlgoExport/Branch_Sums/)               | 🟢         | Tree DFS     |
 | [Depth First Search](AlgoExport/Depth-first-search/) | 🟢         | Tree DFS     |
 
+### Grokking Coding Interview Pattens in Python
+
+| Problem Name                                                                                       | Pattern         |
+| -------------------------------------------------------------------------------------------------- | --------------- |
+| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/Merge-Intervals/merge_intervals.py) | Marge Intervals |
+
 ### Grokking Grind 75
 
 | Problem Name                                                                 | Pattern      |
