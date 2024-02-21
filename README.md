@@ -14,11 +14,13 @@ This repository contains my personal solutions to algorithmic problems from Algo
 
 ### Grokking Coding Interview Pattens in Python
 
-| Problem Name                                                                                               | Pattern                     |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/merge_intervals.py)                         | Marge Intervals             |
-| [Insert Intervals](Grokking-Coding-Interview-Patterns_in_Python/insert_intervals.py)                       | Insert Intervals            |
-| [Interval List Intersections](Grokking-Coding-Interview-Patterns_in_Python/interval_list_intersections.py) | Interval List Intersections |
+| Problem Name                                                                                                 | Pattern                      |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/merge_intervals.py)                           | Marge Intervals              |
+| [Insert Intervals](Grokking-Coding-Interview-Patterns_in_Python/insert_intervals.py)                         | Insert Intervals             |
+| [Interval List Intersections](Grokking-Coding-Interview-Patterns_in_Python/interval_list_intersections.py)   | Interval List Intersections  |
+| [Level Order Traversal](Grokking-Coding-Interview-Patterns_in_Python/level_order_traversal.py)               | Level Order Traversal        |
+| [Zigzag Level Order Traversal](Grokking-Coding-Interview-Patterns_in_Python/zigzag_level_order_traversal.py) | Zigzag Level Order Traversal |
 
 ### Grokking Grind 75
 
