@@ -31,8 +31,6 @@ class TreeNode:
         self.left = None
         self.right = None
 
-from collections import deque
-
 def zigzag_level_order(root):
     if not root:
         return []
