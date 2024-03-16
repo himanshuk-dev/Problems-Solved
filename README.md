@@ -22,6 +22,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Level Order Traversal](Grokking-Coding-Interview-Patterns_in_Python/level_order_traversal.py)               | Level Order Traversal        |
 | [Zigzag Level Order Traversal](Grokking-Coding-Interview-Patterns_in_Python/zigzag_level_order_traversal.py) | Zigzag Level Order Traversal |
 | [Sort Colors](Grokking-Coding-Interview-Patterns_in_Python/sort_colors.py)                                   | Two Pointers                 |
+| [Revese Words in a String](Grokking-Coding-Interview-Patterns_in_Python/reverse_words.py)                    | Two Pointers                 |
 
 ### Grokking Grind 75
 
