@@ -22,7 +22,6 @@
 
 
 from collections import deque
-from ds_v1.BinaryTree.BinaryTree import TreeNode
 
 # Definition for a binary tree node
 class TreeNode:

@@ -27,6 +27,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Linked List Cycle](Grokking-Coding-Interview-Patterns_in_Python/linked_list_cycle.py)                       | Fast and Slow Pointers             |
 | [Find Maximum In Sliding Window](Grokking-Coding-Interview-Patterns_in_Python/max_sliding_window.py)         | Sliding Window                     |
 | [In-place Reversal of a Linked List](Grokking-Coding-Interview-Patterns_in_Python/revese_linked_list.py)     | In-place Reversal of a Linked List |
+| [Flatten Binary tree to Linked List](Grokking-Coding-Interview-Patterns_in_Python/flatten_binary_tree.py)    | Tree depth-first Search            |
 
 ### Grokking Grind 75
 
