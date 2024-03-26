@@ -4,6 +4,13 @@
 
 This repository contains my personal solutions to algorithmic problems from AlgoExpert. Each solution is organized into its own folder, complete with the problem description and my approach to solving it.
 
+### LeetCode
+
+| Problem Name                                       | Difficulty |
+| -------------------------------------------------- | ---------- |
+| [Two Sum](LeetCode/two_sum.py)                     | 🟢         |
+| [Palindrome Number](LeetCode/palindrome_number.py) | 🟢         |
+
 ### AlgoExport
 
 | Problem Name                                         | Difficulty | Pattern      |
