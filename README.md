@@ -10,6 +10,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | -------------------------------------------------- | ---------- |
 | [Two Sum](LeetCode/two_sum.py)                     | 🟢         |
 | [Palindrome Number](LeetCode/palindrome_number.py) | 🟢         |
+| [Roman to Integer](LeetCode/roman_to_integer.py)   | 🟢         |
 
 ### AlgoExport
 
