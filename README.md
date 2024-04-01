@@ -6,11 +6,12 @@ This repository contains my personal solutions to algorithmic problems from Algo
 
 ### LeetCode
 
-| Problem Name                                       | Difficulty |
-| -------------------------------------------------- | ---------- |
-| [Two Sum](LeetCode/two_sum.py)                     | 🟢         |
-| [Palindrome Number](LeetCode/palindrome_number.py) | 🟢         |
-| [Roman to Integer](LeetCode/roman_to_integer.py)   | 🟢         |
+| Problem Name                                               | Difficulty |
+| ---------------------------------------------------------- | ---------- |
+| [Two Sum](LeetCode/two_sum.py)                             | 🟢         |
+| [Palindrome Number](LeetCode/palindrome_number.py)         | 🟢         |
+| [Roman to Integer](LeetCode/roman_to_integer.py)           | 🟢         |
+| [Longest Common Prefix](LeetCode/longest_common_prefix.py) | 🟢         |
 
 ### AlgoExport
 
