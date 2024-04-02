@@ -13,6 +13,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Roman to Integer](LeetCode/roman_to_integer.py)           | 🟢         |
 | [Longest Common Prefix](LeetCode/longest_common_prefix.py) | 🟢         |
 | [Valid Parentheses](LeetCode/valid_parentheses.py)         | 🟢         |
+| [Remove Duplicates](LeetCode/remove_duplicates.py)         | 🟢         |
 
 ### AlgoExport
 
