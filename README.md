@@ -16,6 +16,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Remove Duplicates](LeetCode/remove_duplicates.py)                       | 🟢         |
 | [Remove Element](LeetCode/remove_element.py)                             | 🟢         |
 | [Index of the First Occurrence in a String](LeetCode/first_occurence.py) | 🟢         |
+| [Search Insert Position](LeetCode/search_insert_position.py)             | 🟢         |
 
 ### AlgoExport
 
