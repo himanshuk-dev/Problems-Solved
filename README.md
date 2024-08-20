@@ -18,6 +18,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Index of the First Occurrence in a String](LeetCode/first_occurence.py) | 🟢         |
 | [Search Insert Position](LeetCode/search_insert_position.py)             | 🟢         |
 | [Length of Last Word](LeetCode/length_of_last_word.py)                   | 🟢         |
+| [Plus One](LeetCode/plus_one.py)                                         | 🟢         |
 
 ### AlgoExport
 
