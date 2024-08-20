@@ -17,6 +17,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Remove Element](LeetCode/remove_element.py)                             | 🟢         |
 | [Index of the First Occurrence in a String](LeetCode/first_occurence.py) | 🟢         |
 | [Search Insert Position](LeetCode/search_insert_position.py)             | 🟢         |
+| [Length of Last Word](LeetCode/length_of_last_word.py)                   | 🟢         |
 
 ### AlgoExport
 
@@ -30,7 +31,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 
 | Problem Name                                                                                                 | Pattern                            |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/merge_intervals.py)                           | Marge Intervals                    |
+| [Merge Intervals](Grokking-Coding-Interview-Patterns_in_Python/merge_intervals.py)                           | Merge Intervals                    |
 | [Insert Intervals](Grokking-Coding-Interview-Patterns_in_Python/insert_intervals.py)                         | Insert Intervals                   |
 | [Interval List Intersections](Grokking-Coding-Interview-Patterns_in_Python/interval_list_intersections.py)   | Interval List Intersections        |
 | [Level Order Traversal](Grokking-Coding-Interview-Patterns_in_Python/level_order_traversal.py)               | Level Order Traversal              |
