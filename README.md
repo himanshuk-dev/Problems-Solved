@@ -19,6 +19,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Search Insert Position](LeetCode/search_insert_position.py)             | 🟢         |
 | [Length of Last Word](LeetCode/length_of_last_word.py)                   | 🟢         |
 | [Plus One](LeetCode/plus_one.py)                                         | 🟢         |
+| [Plus One](LeetCode/add_binary.py)                                       | 🟢         |
 
 ### AlgoExport
 
