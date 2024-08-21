@@ -21,6 +21,7 @@ This repository contains my personal solutions to algorithmic problems from Algo
 | [Plus One](LeetCode/plus_one.py)                                         | 🟢         |
 | [Plus One](LeetCode/add_binary.py)                                       | 🟢         |
 | [Plus One](LeetCode/sqrt.py)                                             | 🟢         |
+| [Plus One](LeetCode/climbing_stairs.py)                                  | 🟢         |
 
 ### AlgoExport
 
